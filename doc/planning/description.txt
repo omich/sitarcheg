@@ -1,0 +1,1 @@
+This dir should be used for planning purposes, such as roadmap, TODOs, project status and other.

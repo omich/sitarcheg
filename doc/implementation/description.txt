@@ -1,0 +1,1 @@
+For documents, that implict relates to development. For example API description and other stuff.
